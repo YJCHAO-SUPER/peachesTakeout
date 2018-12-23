@@ -28,4 +28,11 @@ export default {
   -webkit-transition: width 2s;
   -o-transition: width 2s;
 }
+[class^="icon"],[class*="icon"] {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 </style>

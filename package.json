@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "mpvue": "^1.0.11",
+    "muse-ui": "^3.0.1",
     "vuex": "^3.0.1"
   },
   "devDependencies": {
